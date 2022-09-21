@@ -14,7 +14,8 @@
 
 ![1663785023936](https://user-images.githubusercontent.com/103618758/191583082-91187fa6-e976-4cb0-8d1c-d33c5fab8251.jpg)
 
+或可結合LineBot作為即時客服幫助使用者，以下是parkingSearch() Function 結合LineBot 回傳給使用者使用畫面:
 
-parkingSearch() Function 結合LineBot 回傳給使用者使用畫面:
+更多使用情況可參照此網址內資料:https://drive.google.com/drive/folders/1BYewJaPbMG6vpFtudg2-i0pzGe7G1tJT?usp=sharing
 
 ![S__4972562](https://user-images.githubusercontent.com/103618758/191583371-4e32732e-c716-408b-bdb5-c778ba83d89b.jpg)
